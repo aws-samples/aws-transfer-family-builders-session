@@ -16,7 +16,7 @@
 # SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Hard coded variables
-export STACK_NAME=transfer-builders-session
+export STACK_NAME=mod-c3f733c7a5fb4231
 export MOUNT_ADMIN='/mnt/admin'
 export MOUNT_RISKADJUSTER1='/mnt/riskadjuster1'
 export MOUNT_RISKADJUSTER2='/mnt/riskadjuster2'
